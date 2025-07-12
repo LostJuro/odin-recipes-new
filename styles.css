@@ -7,3 +7,28 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+li {
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.border {
+    border: black solid;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+
+.desc {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.para {
+    border: black dotted;
+    padding: 8px;
+}
